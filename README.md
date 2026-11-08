@@ -9,7 +9,7 @@
 Repository ini berisi tugas, proyek, dan catatan untuk mata kuliah **Analisis Big Data** Semester Ganjil 2025/2026.
 
 ## Daftar Tugas
-- [Clustering K-Means](https://colab.research.google.com/drive/18eiA2TObn28XoDpC3udcV-QayOop7VkA#scrollTo=ev6-Ibw126ko)
+- [Clustering K-Means](https://colab.research.google.com/github/BuvanAlfarezy/BuvanAlfarezy_Test3_ClusteringK-Means/blob/main/BuvanAlfarezy_Test3_ClusteringK-Means.ipynb)
 
 
 ## Visualisasi Streamlib

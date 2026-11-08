@@ -1,4 +1,4 @@
-# [231230036] - Test Clustering K-Menas
+# [231230036] - Test Clustering K-Means
 
 **Nama:** [Buvan Alfarezy]
 
@@ -9,7 +9,7 @@
 Repository ini berisi tugas, proyek, dan catatan untuk mata kuliah **Analisis Big Data** Semester Ganjil 2025/2026.
 
 ## Daftar Tugas
-- [Clustering K-Means](https://colab.research.google.com/github/BuvanAlfarezy/BuvanAlfarezy_Test2_KlasifikasiCNN/blob/main/BuvanAlfarezy_Test2_KlasifikasiCNN.ipynb)
+- [Clustering K-Means](https://colab.research.google.com/github/BuvanAlfarezy/BuvanAlfarezy_Test3_ClusteringK-Means/blob/main/BuvanAlfarezy_Test3_ClusteringK-Means.ipynb)
 
 
 ## Visualisasi Streamlib
